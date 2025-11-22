@@ -1,0 +1,24 @@
+{
+  "license": "cc-by",
+  "title": "Accompanying data of an article by Szulc & Pokrzywa, Trends in Cell Biology, 2025",
+  "version": "0-1-0",
+  "upload_type": "dataset",
+  "publication_date": "2025-11-22",
+  "language": "eng",
+  "description": "<p><b>Datasets related to an article by Szulc & Pokrzywa, Trends in Cell Biology, 2025</b></p>",
+  "notes": "This work was funded by the National Science Centre, Poland (OPUS grant 2024/53/B/NZ3/02882).",
+  "keywords": ["mitochondrial quality control", "mitophagy", "muscle recovery", "ALLO-1", "Caenorhabditis elegans", "proteostasis"],
+  "creators": [
+    	{
+      "affiliation": "Laboratory of Protein Metabolism, International Institute of Molecular and Cell Biology in Warsaw, Warsaw, Poland",
+      "name": "Natalia A. Szulc",
+      "orcid": "0000-0002-2991-3634"
+    },      
+    {
+      "affiliation": "Laboratory of Protein Metabolism, International Institute of Molecular and Cell Biology in Warsaw, Warsaw, Poland",
+      "name": "Wojciech Pokrzywa",
+      "orcid": "0000-0002-5110-4462"
+    }
+  ],
+  "access_right": "open"
+}
