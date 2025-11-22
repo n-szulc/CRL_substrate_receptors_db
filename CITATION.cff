@@ -24,7 +24,7 @@ authors:
     orcid: 'https://orcid.org/0000-0002-5110-4462'
 identifiers:
   - type: doi
-    value: 10.15252/embj.2021109566
+    value: 10.5281/zenodo.17682766
 repository-code: 'https://github.com/n-szulc/CRL_substrate_receptors_db'
 abstract: >-
   This programming-friendly dataset catalogs 267 substrate
