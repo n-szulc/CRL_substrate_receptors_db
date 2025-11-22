@@ -1,0 +1,47 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Cullin–RING Ligase Substrate Receptors Database
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Natalia A.
+    family-names: Szulc
+    email: nszulc@iimcb.gov.pl
+    orcid: 'https://orcid.org/0000-0002-2991-3634'
+    affiliation: >-
+      International Institute of Molecular and Cell Biology
+      in Warsaw 
+  - given-names: Wojciech
+    family-names: Pokrzywa
+    email: wpokrzywa@iimcb.gov.pl
+    affiliation: >-
+      International Institute of Molecular and Cell Biology
+      in Warsaw
+    orcid: 'https://orcid.org/0000-0002-5110-4462'
+identifiers:
+  - type: doi
+    value: 10.15252/embj.2021109566
+repository-code: 'https://github.com/n-szulc/CRL_substrate_receptors_db'
+abstract: >-
+  This programming-friendly dataset catalogs 267 substrate
+  receptors of cullin–RING ligases supported by
+  low-throughput experimental evidence, excluding discovery
+  proteomics unless followed by targeted validation. For
+  each substrate receptor, we prioritized primary sources to
+  substantiate its cullin assignment(s) and annotated
+  germline disease associations and tissue specificity where
+  available.
+keywords:
+  - substrate receptors
+  - cullin
+  - cullin-RING ligase
+  - CRL
+  - proteostasis
+  - protein degradation
+  - ubiquitination
+  - rare disease
+license: CC-BY-4.0
