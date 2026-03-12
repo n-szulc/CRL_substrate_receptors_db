@@ -128,7 +128,8 @@ We use semicolon-separated lists in three independent blocks of columns. Alignme
 
 If you use this database in your research, please cite the review article:
 
-> **Szulc, N.A. & Pokrzywa, W. (2025)** Cullin–RING receptors in rare disease biology. *Trends in Cell Biology*. [DOI: To be updated]
+> **Szulc, N.A. & Pokrzywa, W. (2025)** Cullin–RING receptors in rare disease biology. *Trends in Cell Biology*.
+[https://www.cell.com/trends/cell-biology/fulltext/S0962-8924(26)00003-6](https://www.cell.com/trends/cell-biology/fulltext/S0962-8924(26)00003-6)
 
 -----
 
